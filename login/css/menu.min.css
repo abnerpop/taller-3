@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+    background: #fff;
+	font-family: sans-serif;
+}
+
+.formulario{
+	width: 300px;
+	margin: 20px auto;
+
+}
+.form-title{
+
+}
+.form-wrap{
+	background: rgba(203, 199, 199, 0.43);
+	padding: 25px 35px 35px;
+	margin: 20px auto;
+}
+
+.formulario label{
+	color: #00A6EA;
+	font-size: 16px;
+	
+	display: block;
+	margin: auto;
+	
+}
